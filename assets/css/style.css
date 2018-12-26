@@ -1,0 +1,220 @@
+
+
+
+#headerSection{
+  /* for straight background do below */
+/* background-color: rgba(177, 177, 248, 0.710); */
+background-image: linear-gradient(-90deg, rgb(96, 212, 173), rgb(72, 121, 68));
+}
+
+#headerName {
+  font-size: 100px;
+  font-family: "Comic Sans MS", bold, sans-serif;
+  text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+
+}
+
+
+#carousel {
+  width: 100%;
+  height: 100%;
+}
+
+
+.carousel-caption {
+ color: greenyellow;
+}
+
+.h3title {
+  
+  font-size: 100px;
+  font-family: "Comic Sans MS", bold, sans-serif;
+  text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+
+}
+
+.carousel-caption div {
+  display:table-cell;
+  vertical-align: middle;
+  text-align:center;
+}
+
+
+
+
+
+
+
+#overview {
+  background-color: rgba(186, 255, 173, 0.71);
+  color: rgb(1, 4, 31);
+}
+
+#whatWeDoSection {
+  background-image: linear-gradient(-90deg, rgb(120, 148, 140), rgb(88, 88, 88));
+  color: whitesmoke; 
+}
+
+.programingLogo{
+  height: 150px;
+  width: 150px;
+-webkit-transition: -webkit-transform 0.3s ease;
+  -moz-transition: -moz-transform 0.3s ease;
+  -o-transition: -o-transform 0.3s ease;
+  transition: transform 0.3s ease;
+}
+
+.programingLogo {
+  -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  transform: scale(1.5);
+
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.nodePic {
+  height: 150px;
+  width: 200px;
+  
+-webkit-transition: -webkit-transform 0.3s ease;
+  -moz-transition: -moz-transform 0.3s ease;
+  -o-transition: -o-transform 0.3s ease;
+  transition: transform 0.3s ease;
+  -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  transform: scale(1.5);
+
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.blockPic {
+  height: 150px;
+  width: 240px;
+  -webkit-transition: -webkit-transform 0.3s ease;
+  -moz-transition: -moz-transform 0.3s ease;
+  -o-transition: -o-transform 0.3s ease;
+  transition: transform 0.3s ease;
+  -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  transform: scale(1.5);
+
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  -o-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+#stuffIMade{
+  background-color: rgba(47, 150, 26, 0.71);
+}
+
+.workHeaderFont {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;   
+  text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+  color: rgb(248, 248, 248);
+  font-size:4vw;
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+}
+
+
+.workHR { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 4px;
+  width: 80%;
+}
+
+
+.workPFont {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;   
+  text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+  color: rgb(248, 248, 248);
+  font-size:3vw;
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+}
+
+
+.sevenTenPic {
+width: 75%;
+height: 75%;
+}
+
+.infoPic {
+  width: 100%;;
+  height: 100%;
+}
+
+
+.djPic {
+  width: 100%;
+  height: 65%;
+}
+
+
+.sdPic {
+  width: 100%;
+  height: 50%;
+}
+
+.statPic {
+  width: 100%;
+  height: 30%;
+}
+ 
+  
+
+.philCard {
+  padding: 1 0px;
+}
+
+
+#contactSection{
+  background-image: linear-gradient(-90deg, rgb(27, 34, 32), rgb(88, 88, 88));
+}
+
+.padding {
+  padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+}
+
+
+
+.movingLetters {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;   
+  text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+  font-size:6vw;
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+}
+
+
+
+#matrix {
+  padding: 0px 10px 20px;
+  border-radius: 40px;
+  box-shadow: 0 0 50px 50px #000;
+  background: #000;
+}
+
